@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "240697743584",
+    "firebase_url": "https://party-app-cfb0d-default-rtdb.firebaseio.com",
+    "project_id": "party-app-cfb0d",
+    "storage_bucket": "party-app-cfb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240697743584:android:1920e6acf5545f96dc1885",
+        "android_client_info": {
+          "package_name": "com.example.partyeventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSR9IFvAuAT7n9VyLkVoFk4vSXfY4O8qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
